@@ -1,0 +1,91 @@
+@media (max-width: 768px) {
+  }
+
+#navbar {
+  position: fixed;
+  background: white;
+  font-size: 20px;
+  top: 20px;
+  left: 0px;
+  width: 150px;
+  height: 100vh;
+  text-align: center;
+  font-family: system-ui;
+}
+
+.subject-header {
+  font-size: 30px;
+}
+
+.main-section {
+  padding-top: 30px;
+  padding-left: 180px;
+  padding-right: 130px;
+  font-family: system-ui;
+  font-size: 17px;
+}
+
+#example-code1 {
+  background-color: Gainsboro;
+  padding: 12px;
+  max-width: 275px;
+  border-radius: 20px;
+}
+
+#example-code2 {
+  background-color: Gainsboro;
+  padding: 12px;
+  max-width: 285px;
+  border-radius: 20px;
+}
+
+#example-code3 {
+  background-color: Gainsboro;
+  padding: 12px;
+  max-width: 170px;
+  border-radius: 20px;
+}
+
+#example-code4 {
+  background-color: Gainsboro;
+  padding: 12px;
+  max-width: 285px;
+  border-radius: 20px;
+}
+
+#example-code5 {
+  background-color: Gainsboro;
+  padding: 12px;
+  max-width: 120px;
+  border-radius: 20px;
+}
+
+#example-code6 {
+  text-align: center;
+  color: red;
+  background-color: gold;
+  padding: 12px;
+  max-width: 285px;
+  border-radius: 20px;
+}
+
+#example-code7 {
+  background-color: Gainsboro;
+  padding: 12px;
+  max-width: 150px;
+  border-radius: 20px;
+}
+
+#example-code8 {
+  background-color: lightslategray;
+  color: snow;
+  padding: 12px;
+  max-width: 270px;
+  border-radius: 20px;
+}
+
+#sources {
+  padding-left: 170px;
+  font-family: system-ui;
+  font-size: 17px;
+}
